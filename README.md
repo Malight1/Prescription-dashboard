@@ -1,2 +1,2 @@
 # Prescription-dashboard
-https://pharmager-prescription.netlify.app/
+https://prescription-web.netlify.app/
